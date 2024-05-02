@@ -1,2 +1,2 @@
 # hello-world
-Understanding how Git works. 
+Understanding how Git hub works. 
